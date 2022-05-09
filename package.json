@@ -2,7 +2,7 @@
   "name": "la-maison-jungle",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://nymphadorart.github.io/la_maison_jungle",
+  "homepage":"https://nymphadorart.github.io/La_maison_jungle",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
